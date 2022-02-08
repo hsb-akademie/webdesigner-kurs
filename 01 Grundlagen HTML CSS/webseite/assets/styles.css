@@ -1,0 +1,17 @@
+
+/* Selektoren */
+
+/* Tag */
+h1 {
+    margin: 0;
+}
+
+/* ID */
+#id-text {
+    font-size: 12px;
+}
+
+/* Klassen */
+.class-text {
+    color: red;
+}
