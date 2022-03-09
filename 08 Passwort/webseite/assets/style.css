@@ -1,0 +1,16 @@
+
+.field {
+    position: relative;
+    display: inline-block;
+}
+
+.icon {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    background-color: lightgreen;
+    border-radius: 100%;
+    right: 3px;
+    top: 3px;
+    cursor: pointer;
+}
